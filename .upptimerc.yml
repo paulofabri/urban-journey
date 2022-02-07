@@ -24,6 +24,11 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/paulofabri/urban-journey
+workflowSchedule:
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
+  graphs: "*/5 * * * *"
+  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
